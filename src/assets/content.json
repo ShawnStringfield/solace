@@ -1,0 +1,41 @@
+{
+  "featured": [
+    {
+      "title": "Feature 1",
+      "description": "Increase digital literacy and technological empowerment, particularly in underserved populations.",
+      "icon": "ImBooks"
+    },
+    {
+      "title": "Feature 2",
+      "description": "Reduce carbon footprints and promote sustainable practices within communities through education.",
+      "icon": "BsAspectRatioFill"
+    },
+    {
+      "title": "Feature 3",
+      "description": "Strengthen community bonds and support systems by providing platforms for collaboration and mutual aid.",
+      "icon": "IoPeopleCircle"
+    }
+  ],
+  "featured_split": [
+    {
+      "title": "Split Feature 1",
+      "description": "Building strong, supportive communities through active participation and shared experiences.",
+      "icon": "FaLaptopCode"
+    },
+    {
+      "title": "Split Feature 2",
+      "description": "Ensuring that our platforms are accessible and beneficial to people of all backgrounds and abilities.",
+      "icon": "HiRectangleStack"
+    },
+    {
+      "title": "Split Feature 3",
+      "description": "Leveraging cutting-edge technology to solve social and environmental challenges.",
+      "icon": "SiElasticstack"
+    },
+    {
+      "title": "Split Feature 4",
+      "description": "We are committed to sustainability and environmental responsibility in all aspects of our work and operations.",
+      "icon": "AiFillDatabase"
+    }
+  ]
+}
