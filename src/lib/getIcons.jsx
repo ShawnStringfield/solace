@@ -6,22 +6,22 @@ import { HiRectangleStack } from 'react-icons/hi2';
 import { SiElasticstack } from 'react-icons/si';
 import { AiFillDatabase } from 'react-icons/ai';
 
-export const getIcons = (icon) => {
+export const getIcons = (icon, size) => {
   switch (icon) {
     case 'IoPeopleCircle':
-      return <IoPeopleCircle size='48' className='text-slate-500' />;
+      return <IoPeopleCircle size={size} />;
     case 'ImBooks':
-      return <ImBooks size='48' className='text-slate-500' />;
+      return <ImBooks size={size} />;
     case 'BsAspectRatioFill':
-      return <BsAspectRatioFill size='48' className='text-slate-500 ' />;
+      return <BsAspectRatioFill size={size} />;
     case 'FaLaptopCode':
-      return <FaLaptopCode size='48' className='text-slate-500' />;
+      return <FaLaptopCode size={size} />;
     case 'HiRectangleStack':
-      return <HiRectangleStack size='48' className='text-slate-500' />;
+      return <HiRectangleStack size={size} />;
     case 'SiElasticstack':
-      return <SiElasticstack size='48' className='text-slate-500' />;
+      return <SiElasticstack size={size} />;
     case 'AiFillDatabase':
-      return <AiFillDatabase size='48' className='text-slate-500' />;
+      return <AiFillDatabase size={size} />;
     default:
       return null;
   }

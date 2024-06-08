@@ -23,13 +23,13 @@ import {
 export const Nav = () => {
   return (
     <>
-      <div className='nav container flex justify-between items-center mt-8 mb-16'>
+      <div className='nav container flex justify-between items-center mt-8 mb-[-50px] sm:mb-0'>
         <div>
           <Link to='/'>
-            <h1 className='text-xl'>Logo</h1>
+            <h1 className='text-xl'>Solace Solstice Counseling</h1>
           </Link>
         </div>
-        <div className='flex justify-end sm:hidden w-2/4'>
+        <div className='flex justify-end sm:hidden w-1/4'>
           <AlertDialog>
             <AlertDialogTrigger>
               <RxTextAlignRight size='28px' />

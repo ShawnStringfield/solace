@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2564 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard2" transform="matrix(1,0,0,1,403.766,0)">
+        <rect x="-403.766" y="0" width="2563.77" height="123" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-403.766" y="0" width="2563.77" height="123"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Artboard1" transform="matrix(1.19781,0,0,0.113356,-427.031,0)">
+                <rect x="0" y="0" width="2160" height="1080" style="fill:none;"/>
+                <g>
+                    <g>
+                        <clipPath id="_clip2">
+                            <rect x="0" y="0" width="2160" height="1080"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <g id="Option-1" serif:id="Option 1" transform="matrix(1,0,0,8.82174,0,-8447.48)">
+                                <g transform="matrix(1,0,0,1,100,16)">
+                                    <path d="M2187.03,1136.8L-26.643,1136.8C-26.643,1136.8 410.899,985.586 539.01,975.091C667.122,964.596 985.84,1052.87 1223.97,1058.77C1462.1,1064.67 1726.56,928.405 1846.75,974.154C1966.93,1019.9 2013.57,1097.05 2187.03,1136.8Z" style="fill:rgb(255,103,106);"/>
+                                </g>
+                                <g transform="matrix(-1,0,0,1,2090.39,16)">
+                                    <path d="M2187.03,1136.8L-268.156,1122.1C-268.156,1122.1 -541.53,1023.04 -390.976,1064.58C-159.138,1128.54 315.753,1007.66 579.01,995.091C707.405,988.96 985.84,1052.87 1223.97,1058.77C1462.1,1064.67 1740.2,1008.13 1868.27,1019.8C1935.17,1025.9 2124.14,1093.63 2181.87,1097.91C2388.84,1113.26 2322.79,1150.95 2187.03,1136.8Z" style="fill:white;"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

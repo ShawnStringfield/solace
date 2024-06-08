@@ -404,6 +404,11 @@
   resolved "https://registry.yarnpkg.com/@fontsource-variable/inter/-/inter-5.0.18.tgz#3a418bdb9fb6310f7ea715b8bb15644c23125520"
   integrity sha512-rJzSrtJ3b7djiGFvRuTe6stDfbYJGhdQSfn2SI2WfXviee7Er0yKAHE5u7FU7OWVQQQ1x3+cxdmx9NdiAkcrcA==
 
+"@fontsource-variable/playfair-display@^5.0.25":
+  version "5.0.25"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/playfair-display/-/playfair-display-5.0.25.tgz#aa1d03bce636fbcc0d9a81787583a7a3d29f55eb"
+  integrity sha512-q8tzLiURtXycJQ27YoppTNCEe0W2ZRXIeZ25nH9KoM6fsbWYZAm9ItY0aRoL/jn/GllsEcTSm8H2UKa7l4AxDw==
+
 "@fontsource-variable/work-sans@^5.0.19":
   version "5.0.19"
   resolved "https://registry.yarnpkg.com/@fontsource-variable/work-sans/-/work-sans-5.0.19.tgz#96f1c99615b045a7ddfcc31ce0d6f777464c6c6b"
