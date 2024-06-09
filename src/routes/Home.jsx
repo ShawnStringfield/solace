@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
       <HeroHome />
-      <Section classes='border-b-[1px] pb-16 bg-dove bg-no-repeat bg-[length:100px_100px]'>
+      <Section classes='border-b-[1px] pb-16 bg-dove bg-no-repeat bg-[length:100px_100px] bg-[center_bottom_-35px]'>
         <Container classes='text-center sm:px-16'>
           <p className='sm:text-2xl'>
             At Solace Solstice Counseling, we believe in the power of transformation. Our mission is to guide you
