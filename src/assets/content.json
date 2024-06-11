@@ -1,41 +1,84 @@
 {
   "featured": [
     {
-      "title": "Feature 1",
-      "description": "Increase digital literacy and technological empowerment, particularly in underserved populations.",
-      "icon": "ImBooks"
+      "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma” by Bessel van der Kolk, M.D",
+      "description": "This book delves into the profound effects of trauma on both the mind and body. Dr. Bessel van der Kolk, a leading expert on trauma, provides a comprehensive look at how trauma reshapes the body and brain and offers new paths to recovery through innovative treatments.",
+      "link": "https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748"
     },
     {
-      "title": "Feature 2",
-      "description": "Reduce carbon footprints and promote sustainable practices within communities through education.",
-      "icon": "BsAspectRatioFill"
+      "title": "Man’s Search for Meaning” by Viktor E. Frankl",
+      "description": "In this classic work, psychiatrist Viktor Frankl explores his experiences in Nazi concentration camps and introduces his psychotherapeutic method known as logotherapy. The book focuses on finding meaning in life, even in the most challenging circumstances.",
+      "link": "https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014265"
     },
     {
-      "title": "Feature 3",
-      "description": "Strengthen community bonds and support systems by providing platforms for collaboration and mutual aid.",
-      "icon": "IoPeopleCircle"
+      "title": "Mindfulness in Plain English” by Bhante Henepola Gunaratana",
+      "description": "This classic book provides a clear and straightforward introduction to mindfulness and meditation. Bhante Henepola Gunaratana, a Buddhist monk, breaks down the practice of mindfulness into accessible steps, making it easy for beginners to understand and implement in their daily lives.",
+      "link": "https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069"
     }
   ],
   "featured_split": [
     {
-      "title": "Split Feature 1",
-      "description": "Building strong, supportive communities through active participation and shared experiences.",
-      "icon": "FaLaptopCode"
+      "title": "Individual Therapy",
+      "description": "One-on-one counseling sessions focused on addressing personal mental health concerns, such as anxiety, depression, stress, and trauma. My goal is to help you develop coping strategies and achieve emotional well-being.”"
     },
     {
-      "title": "Split Feature 2",
-      "description": "Ensuring that our platforms are accessible and beneficial to people of all backgrounds and abilities.",
+      "title": "Couples Therapy",
+      "description": "Couples therapy sessions are designed to help partners improve communication, resolve conflicts, and strengthen their relationship. I provide a supportive space for couples to work through their issues and build a healthier, more fulfilling connection",
       "icon": "HiRectangleStack"
     },
     {
-      "title": "Split Feature 3",
-      "description": "Leveraging cutting-edge technology to solve social and environmental challenges.",
+      "title": "Family Therapy",
+      "description": "Family therapy sessions aim to address and resolve family dynamics and conflicts. I work with families to improve communication, foster understanding, and create a harmonious home environment.",
       "icon": "SiElasticstack"
     },
     {
-      "title": "Split Feature 4",
-      "description": "We are committed to sustainability and environmental responsibility in all aspects of our work and operations.",
+      "title": "Group Therapy",
+      "description": "Group therapy sessions offer a supportive environment where individuals can share their experiences and gain insights from others facing similar challenges. My groups focus on topics such as stress management, grief, and relationship issues.",
       "icon": "AiFillDatabase"
+    }
+  ],
+  "how_it_works": [
+    {
+      "title": " Initial Contact and Consultation",
+      "description": "Contact me via the online inquiry. Provide basic information about yourself and your goals."
+    },
+    {
+      "title": "Answer a few Questions",
+      "description": "Answer a few questions so we can begin the process of matching you with the right guidance."
+    },
+    {
+      "title": "Attend Your First Session",
+      "description": "We’ll schedule your first therapy session at a time that works for you."
+    }
+  ],
+  "faq": [
+    {
+      "question": " What can I expect during the first session?",
+      "answer": "During the first session, we will conduct an initial assessment to discuss your concerns, history, and goals for therapy. This helps us create a personalized treatment plan tailored to your needs. We will also set therapeutic goals and outline the steps to achieve them."
+    },
+    {
+      "question": "Do you offer telehealth sessions?",
+      "answer": "Yes, I offer both in-person and telehealth sessions to accommodate your preferences and needs. Telehealth sessions are conducted via secure video conferencing, ensuring confidentiality and convenience."
+    },
+    {
+      "question": "What are your fees and payment options?",
+      "answer": "My fees vary depending on the type and length of the session. I accept various payment methods, including credit cards and certain insurance plans. We will discuss fees and payment options during your initial consultation."
+    },
+    {
+      "question": "How do I know if therapy is right for me?",
+      "answer": "Therapy can benefit anyone facing mental health challenges, personal issues, or seeking personal growth. During our initial consultation, we will discuss your concerns and goals to determine if my services are a good fit for you."
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "I require at least 24 hours’ notice for cancellations or rescheduling of appointments. This allows me to offer the time slot to another client in need. Cancellations made with less than 24 hours’ notice may incur a cancellation fee."
+    },
+    {
+      "question": "Is my information kept confidential?",
+      "answer": "Yes, confidentiality is a cornerstone of my practice. All information shared during therapy sessions is kept strictly confidential, in accordance with professional ethical standards and legal requirements."
+    },
+    {
+      "question": "What should I do in case of a mental health emergency?",
+      "answer": "In case of a mental health emergency, please call emergency services immediately or go to the nearest emergency room. You can also contact local crisis hotlines or emergency numbers provided on the resources page of my website."
     }
   ]
 }

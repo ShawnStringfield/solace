@@ -8,7 +8,9 @@ export const HeroHome = () => {
         <Container>
           <h1 className='text-2xl sm:text-4xl md:text-6xl w-3/4 sm:w-2/4 text-white [text-shadow:_2px_2px_0_rgb(0_0_0_/_50%)] self-center'>
             <div>Find Your Path to Peace and Clarity with Solace Solstice</div>
-            <Button className='bg-primary self-center mt-4'>Book an Appointment</Button>
+            <Button className='bg-blue-400 sm:text-lg text-white py-6 mt-4 hover:bg-secondary-foreground'>
+              Book an Appointment
+            </Button>
           </h1>
         </Container>
       </div>

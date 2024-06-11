@@ -21,8 +21,8 @@
     --primary: 359, 100%, 70%;
     --primary-foreground: 210 40% 98%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 135, 44%, 76%;
+    --secondary-foreground: 109, 49%, 85%;
 
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
@@ -79,7 +79,7 @@
     h4,
     h5,
     h6 {
-      font-family: 'Playfair Display Variable', sans-serif;
+      font-family: 'EB Garamond Variable', sans-serif;
       font-weight: 600;
       @apply text-primary;
     }

@@ -55,7 +55,8 @@ module.exports = {
       backgroundImage: {
         hero_home: 'url("assets/hero_home.jpg")',
         section_header: 'url("assets/section_header_bg.svg")',
-        dove: 'url("assets/dove.svg")',
+        quote: 'url("assets/quote.svg")',
+        books: 'url("assets/books.svg")',
       },
       borderRadius: {
         lg: 'var(--radius)',
