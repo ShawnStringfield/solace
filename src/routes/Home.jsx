@@ -2,7 +2,6 @@ import { HeroHome } from '../components/sections/hero_home';
 import { Featured } from '../components/sections/featured';
 import { FeaturedSplit } from '../components/sections/featured_split';
 import { Section, Container } from '../components';
-import { ContactForm } from '../components/contactform';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/shadcn/ui/avatar';
 import { FAQ } from '../components/sections/faq';
 import t1 from '@/assets/testimonials/1.jpg';
@@ -31,10 +30,6 @@ export default function Home() {
 
       <Section>
         <Featured />
-      </Section>
-
-      <Section>
-        <ContactForm />
       </Section>
 
       <Section classes='px-4'>

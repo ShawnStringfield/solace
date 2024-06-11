@@ -14,9 +14,6 @@ export const ContactForm = () => {
 
   return (
     <>
-      <section className='container mx-auto text-center' id='contact'>
-        <h2 className='mb-4'>Get in Touch</h2>
-      </section>
       <section className='container mx-auto py-16 mb-16 border-b-[1px]'>
         <form className='mx-auto' onSubmit={handleSubmit(onSubmit)}>
           <div className='md:grid grid-cols-2 gap-6'>
@@ -67,7 +64,7 @@ export const ContactForm = () => {
             </div>
           </div>
           <div className='pb-8'>
-            <Button type='submit' className='mt-8 w-full md:w-auto text-xl p-4'>
+            <Button type='submit' className='bg-blue-400 sm:text-lg text-white py-6 mt-4 hover:bg-primary-foreground'>
               Submit
             </Button>
           </div>

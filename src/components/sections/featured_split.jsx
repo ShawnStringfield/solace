@@ -2,6 +2,7 @@ import content from '../../assets/content.json';
 import { Container } from '../container';
 import { Section } from '../section';
 import { Button } from '@/components/shadcn/ui/button';
+import { Link } from 'react-router-dom';
 
 export const FeaturedSplit = () => {
   return (
@@ -22,12 +23,14 @@ export const FeaturedSplit = () => {
                 </li>
               ))}
             </ul>
-            <Button
-              className='mt-4 text-lg text-white py-6 bg-blue-400 hover:bg-secondary-foreground'
-              variant='secondary'
-            >
-              Lets Get Started
-            </Button>
+            <Link to='/contact'>
+              <Button
+                className='mt-4 text-lg text-white py-6 bg-blue-400 hover:bg-primary-foreground'
+                variant='secondary'
+              >
+                Lets Get Started
+              </Button>
+            </Link>
           </div>
           <div className='md:w-3/4 flex'>
             <div className='md:grid grid-cols-2 gap-16'>
