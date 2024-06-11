@@ -14,7 +14,7 @@ export const ContactForm = () => {
 
   return (
     <>
-      <section className='container mx-auto text-center'>
+      <section className='container mx-auto text-center' id='contact'>
         <h2 className='mb-4'>Get in Touch</h2>
       </section>
       <section className='container mx-auto py-16 mb-16 border-b-[1px]'>

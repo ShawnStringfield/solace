@@ -7,7 +7,7 @@ export const FeaturedSplit = () => {
   return (
     <Section>
       <Container>
-        <div className='md:flex p-4'>
+        <div className='md:flex p-4' id='services'>
           <div className='md:w-2/4 md:mr-16 mb-8 self-center'>
             <h2 className='text-5xl'>How it Works</h2>
             <ul className='list-inside mt-8'>
