@@ -71,7 +71,7 @@ export const ContactForm = () => {
         </form>
 
         {isSubmitSuccessful && (
-          <div className='container mx-auto text-center mt-8 border-t-[1px] border-secondary pt-16'>
+          <div className='container mx-auto text-center mt-8 pt-16'>
             <p>
               Thank you <span className='font-bold'>{`${data.name}`} </span> we will get back to you shortly.
             </p>
